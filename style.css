@@ -1,0 +1,31 @@
+.navbar{
+    font-family:'PT Sans', sans-serif;
+
+}
+body{
+    background: lightgrey;
+}
+.alert{
+    background: white;
+    align-content: center;
+}
+.stop{
+    width:200px;
+}
+.navbar-brand{
+    background: lightblue;
+    color: white;
+}
+.form-group{
+    
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#number{
+    color: pink;
+}
